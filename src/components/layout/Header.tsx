@@ -55,7 +55,7 @@ const Header: React.FC = () => {
           <div className="flex items-center space-x-6">
             <div className="flex items-center space-x-1">
               <Phone size={16} className="text-primary-700" />
-              <span>Call us: <a href="tel:+919136759842" className="font-medium hover:text-primary-600">+919136759842</a></span>
+              <span>Call us: <a href="tel:+919136759842" className="font-medium hover:text-primary-600">+91 9136-759-842</a></span>
             </div>
             <div>
               <a href="mailto:connect@yatriguardian.in" className="hover:text-primary-600">connect@yatriguardian.in</a>
@@ -138,7 +138,7 @@ const Header: React.FC = () => {
               <div className="pt-6 flex flex-col space-y-3 text-sm">
                 <div className="flex items-center space-x-2">
                   <Phone size={16} className="text-primary-700" />
-                  <span>Call us: <a href="tel:+919136759842" className="font-medium">+919136759842</a></span>
+                  <span>Call us: <a href="tel:+919136759842" className="font-medium">+91 9136-759-842</a></span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Globe size={16} className="text-primary-700" />

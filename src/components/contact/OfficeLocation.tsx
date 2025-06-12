@@ -26,7 +26,7 @@ const OfficeLocation: React.FC = () => {
             <div>
               <h4 className="font-medium mb-1">Phone</h4>
               <p className="text-gray-600">
-                <a href="tel:+919136759842" className="hover:text-primary-600">+919136759842</a>
+                <a href="tel:+919136759842" className="hover:text-primary-600">+91 9136-759-842</a>
               </p>
             </div>
           </div>
